@@ -1,0 +1,2 @@
+# Limit-Order-Book
+The limit order book is the list of orders (prices at which you can transact) for a given security.  Depending on the security, these orders may be on one exchange, or aggregated across many exchanges.  This presentation will give a basic description of the order book, and how your transactions will be handled by (and how they will affect) the book.  You will transact in an order book if you trade stock, futures, options, and/or other securities. However, in this presentation we’ll use stock examples.
